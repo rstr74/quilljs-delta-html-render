@@ -1,0 +1,27 @@
+{
+  "name": "quilljs-delta-html-render",
+  "version": "0.1.0",
+  "description": "Render Quilljs Delta to HTML representation",
+  "author": {
+    "name": "Robbert Streng"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "quill-delta": "^3.4.3",
+    "cheerio": "^0.22.0",
+    "escape-html": "^1.0.3"
+  },
+  "engines": {
+    "node": ">=4.4.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "coveralls": "^2.11.14",
+    "istanbul": "~0.4.5",
+    "jasmine": "^2.5.2"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine test/**.js"
+  }
+}
