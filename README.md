@@ -2,10 +2,12 @@
 
 - Document insert-only deltas
 - Uses [cheerio](https://github.com/cheeriojs/cheerio) for dom manupulation
+- Quill v.1.1 Delta format
 - Not for production (yet)
 
 ### Install:
     npm install rstr74/quilljs-delta-html-render
+    npm i (in node_modules/quilljs-delta-html-render)
 
 ### Test:
     npm test
