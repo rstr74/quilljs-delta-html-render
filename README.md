@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rstr74/quilljs-delta-html-render.svg?branch=master)](https://travis-ci.org/rstr74/quilljs-delta-html-render)
+
 #### Render [Quilljs](http://quilljs.com/) Delta's to HTML on the server with node.js
 
 - Document insert-only deltas
