@@ -3,7 +3,7 @@
 #### Render [Quilljs](http://quilljs.com/) Delta's to HTML on the server with node.js
 
 - Document insert-only deltas
-- Uses [cheerio](https://github.com/cheeriojs/cheerio) for dom manupulation
+- Uses [cheerio](https://github.com/cheeriojs/cheerio) for dom manipulation
 - Quill v.1.1 Delta format
 - Not for production (yet)
 
